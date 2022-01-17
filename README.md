@@ -1,2 +1,2 @@
 # UnityGameProject
-DIH제작
+unity를 이용한 게임(DIH)제작.
